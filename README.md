@@ -1,7 +1,7 @@
 * Dependancy Injection With Spring
     * SOLID Principles of OOP
       # S -> Single Reponsibility Principle
-             / Every Class should have a single Responsibility
+           / Every Class should have a single Responsibility
       	   / There should never be more than one reason for a class to change
       	   / Your Classes should be small.no more than a screen full of code
       	   / Avoid 'god' classes
@@ -15,7 +15,7 @@
       	   / Use abstract base classes  
       # L -> Liskov Substitution Principles
       	   / Objects in a program would be replaceable with instances of their subtypes
-      	     WITHOUT altering the correctness of the program
+           / WITHOUT altering the correctness of the program
       	   / Violations will often fail the "Is a" test
       	   / A Square "is a" rectangle
       	   / However,a Rectangle 'is not' a square
